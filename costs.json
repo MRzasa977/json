@@ -1,0 +1,7 @@
+{
+	main: [
+		{
+			costPerKilomete: 3.50
+		}
+	],
+}
