@@ -1,7 +1,7 @@
 {
-	main: [
+	"main": [
 		{
-			costPerKilomete: 3.50
+			"costPerKilomete": 3.50
 		}
 	],
 }
